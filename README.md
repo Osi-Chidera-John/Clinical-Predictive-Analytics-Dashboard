@@ -82,7 +82,15 @@ Heart disease remains the leading cause of mortality globally. This project demo
   - 🔵 Blue → No Disease  
 
 ---
+---
 
+## 🔗 Project Access
+
+You can view and interact with the full dashboard here:
+
+- 📊 **Live Project / File:** [Open Project](PASTE-YOUR-PROJECT-LINK-HERE)
+
+---
 ## 📈 Tools & Technologies
 
 - **Microsoft Excel**
