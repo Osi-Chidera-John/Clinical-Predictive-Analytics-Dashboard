@@ -13,7 +13,7 @@ Heart disease remains the leading cause of mortality globally. This project demo
 
 ## 📊 Dashboard Preview
 
-![Main Dashboard](Screenshot.xlsx1.png)
+![Main Dashboard](Healthinsight.png)
 
 *Global view of the CardioInsight Dashboard featuring interactive slicers for Sex and Disease Presence.*
 
@@ -87,7 +87,7 @@ Heart disease remains the leading cause of mortality globally. This project demo
 
 You can view and interact with the full dashboard here:
 
-- 📊 **Live Project / File:** [Open Work](https://github.com/Osi-Chidera-John/-Clinical-Predictive-Analytics-Dashboard/blob/main/Heart_Disease_Prediction.xlsx)
+- 📊 **Live Project / File:** [Open Work](https://github.com/Osi-Chidera-John/Clinical-Predictive-Analytics-Dashboard/blob/main/Heart_Disease_Predict.xlsx)
 
 ---
 ## 📈 Tools & Technologies
