@@ -57,10 +57,10 @@ Heart disease remains the leading cause of mortality globally. This project demo
 - **Data Cleaning:** Handled outliers in Cholesterol & Blood Pressure  
 
 #### 📌 Raw Dataset
-![Raw Data](Screenshot.xlsx5.png)
+![Raw Data](Raw_dataset.png)
 
 #### 📌 Cleaned Dataset
-![Cleaned Data](Screenshot.xlsx6.png)
+![Cleaned Data](Cleaned_dataset.png)
 
 ---
 
